@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+chromadb
+tqdm
+pydantic
+google-generativeai
+huggingface-hub
+python-multipart
